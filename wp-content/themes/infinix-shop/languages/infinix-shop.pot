@@ -1,0 +1,446 @@
+# Copyright (c) 2023 InfinixThemes. All Rights Reserved.
+msgid ""
+msgstr ""
+"Project-Id-Version: Infinix Shop 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/infinix-shop\n"
+"Last-Translator: inf@infinixthemes.com\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-13T11:10:10+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: infinix-shop\n"
+
+#. Theme Name of the theme
+msgid "Infinix Shop"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://infinixthemes.com/wordpress-themes/infinix-shop/"
+msgstr ""
+
+#. Description of the theme
+msgid "Infinix Shop is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself."
+msgstr ""
+
+#. Author of the theme
+msgid "Infinix Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://infinixthemes.com"
+msgstr ""
+
+#: patterns/call-to-action.php
+msgctxt "Pattern title"
+msgid "Call To Action"
+msgstr ""
+
+#: patterns/call-to-action.php:20
+msgid "Extra"
+msgstr ""
+
+#: patterns/call-to-action.php:24
+msgid "30%"
+msgstr ""
+
+#: patterns/call-to-action.php:28
+msgid "off online"
+msgstr ""
+
+#: patterns/call-to-action.php:34
+msgid "Summer Season Sale."
+msgstr ""
+
+#: patterns/call-to-action.php:38
+msgid "Free shipping on orders over 99$"
+msgstr ""
+
+#: patterns/call-to-action.php:43
+#: patterns/hero.php:35
+#: patterns/hero.php:68
+msgid "Shop Now"
+msgstr ""
+
+#: patterns/e-service.php
+msgctxt "Pattern title"
+msgid "eService"
+msgstr ""
+
+#: patterns/e-service.php:23
+msgid "Free shipping"
+msgstr ""
+
+#: patterns/e-service.php:27
+msgid "On Order Over $50"
+msgstr ""
+
+#: patterns/e-service.php:47
+msgid "Help center"
+msgstr ""
+
+#: patterns/e-service.php:51
+msgid "24/7 Support System"
+msgstr ""
+
+#: patterns/e-service.php:71
+msgid "TrustPay"
+msgstr ""
+
+#: patterns/e-service.php:75
+msgid "Easy return policy"
+msgstr ""
+
+#: patterns/e-service.php:95
+msgid "Secure Payment"
+msgstr ""
+
+#: patterns/e-service.php:99
+msgid "Trustable Payment"
+msgstr ""
+
+#: patterns/featured-articles.php
+msgctxt "Pattern title"
+msgid "Featured Articles"
+msgstr ""
+
+#: patterns/featured-articles.php:15
+msgid "Featured Articles."
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr ""
+
+#: patterns/footer-default.php:31
+msgctxt "1: Year, 2: Site Title with home URL, 3: Privacy Policy Link"
+msgid "Copyright &copy; %1$s %2$s"
+msgstr ""
+
+#: patterns/footer-default.php:32
+msgid "Y"
+msgstr ""
+
+#: patterns/footer-has-widgets.php
+msgctxt "Pattern title"
+msgid "Footer Has Widgets"
+msgstr ""
+
+#: patterns/footer-has-widgets.php:17
+msgid "Company"
+msgstr ""
+
+#: patterns/footer-has-widgets.php:26
+msgid "Our Blog"
+msgstr ""
+
+#: patterns/footer-has-widgets.php:38
+msgid "Popular Links"
+msgstr ""
+
+#: patterns/footer-has-widgets.php:47
+msgid "Our Products"
+msgstr ""
+
+#: patterns/footer-has-widgets.php:59
+msgid "Support"
+msgstr ""
+
+#: patterns/footer-has-widgets.php:68
+msgid "Others"
+msgstr ""
+
+#: patterns/footer-has-widgets.php:80
+msgid "Stay Connected"
+msgstr ""
+
+#: patterns/footer-has-widgets.php:85
+msgid "Subscribe to hear about coupon codes, important notices, new product announcement and more. No nonsense!"
+msgstr ""
+
+#: patterns/footer-has-widgets.php:96
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr ""
+
+#: patterns/header-media.php
+msgctxt "Pattern title"
+msgid "Header Media"
+msgstr ""
+
+#: patterns/hero.php
+msgctxt "Pattern title"
+msgid "hero"
+msgstr ""
+
+#: patterns/hero.php:19
+msgid "Winter care"
+msgstr ""
+
+#: patterns/hero.php:23
+msgid "Important points to know in collagen induction therapy."
+msgstr ""
+
+#: patterns/hero.php:30
+#: patterns/hero.php:63
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do"
+msgstr ""
+
+#: patterns/hero.php:52
+msgid "New Season"
+msgstr ""
+
+#: patterns/hero.php:56
+msgid " Best body treatment to get rid of dry skin patches."
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "Hidden 404"
+msgstr ""
+
+#: patterns/hidden-404.php:13
+msgctxt "Error code for a webpage that is not found."
+msgid "404 Nothing Foun"
+msgstr ""
+
+#: patterns/hidden-404.php:17
+msgctxt "Message to convey that a webpage could not be found"
+msgid "Oops! That page can not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/hidden-404.php:23
+#: patterns/hidden-no-results.php:16
+msgctxt "label"
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-404.php:23
+msgctxt "placeholder for search field"
+msgid "Search a keyword.."
+msgstr ""
+
+#: patterns/hidden-404.php:23
+#: patterns/hidden-no-results.php:16
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-no-results.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results.php:12
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/hidden-no-results.php:16
+msgctxt "placeholder for search field"
+msgid "Search..."
+msgstr ""
+
+#: patterns/home-shop.php
+msgctxt "Pattern title"
+msgid "Home Shop"
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "Home"
+msgstr ""
+
+#: patterns/product-categories.php
+msgctxt "Pattern title"
+msgid "Product Categories"
+msgstr ""
+
+#: patterns/product-categories.php:16
+msgid "Product Categories."
+msgstr ""
+
+#: patterns/product-categories.php:20
+#: patterns/product-rated.php:18
+#: patterns/product-recent.php:18
+#: patterns/product-sale.php:18
+#: patterns/testimonials.php:19
+msgid "Discover how our WordPress themes and plugins help you create"
+msgstr ""
+
+#: patterns/product-off.php
+msgctxt "Pattern title"
+msgid "Product Off"
+msgstr ""
+
+#: patterns/product-rated.php
+msgctxt "Pattern title"
+msgid "Product Rated"
+msgstr ""
+
+#: patterns/product-rated.php:14
+msgid "Top Rated Products."
+msgstr ""
+
+#: patterns/product-recent.php
+msgctxt "Pattern title"
+msgid "Product Recent"
+msgstr ""
+
+#: patterns/product-recent.php:14
+msgid "Recent Products."
+msgstr ""
+
+#: patterns/product-sale.php
+msgctxt "Pattern title"
+msgid "Product Sale"
+msgstr ""
+
+#: patterns/product-sale.php:14
+msgid "On Sale Products."
+msgstr ""
+
+#: patterns/recent-posts.php
+msgctxt "Pattern title"
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/recent-posts.php:15
+msgid "From the blog."
+msgstr ""
+
+#: patterns/sidebar-products.php
+msgctxt "Pattern title"
+msgid "Sidebar Products"
+msgstr ""
+
+#: patterns/sidebar-products.php:15
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar-products.php:38
+msgid "filter by price"
+msgstr ""
+
+#: patterns/sidebar-products.php:52
+msgid "filter by size"
+msgstr ""
+
+#: patterns/sidebar-products.php:66
+msgid "filter by color"
+msgstr ""
+
+#: patterns/testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials"
+msgstr ""
+
+#: patterns/testimonials.php:15
+msgid "Trust our customers."
+msgstr ""
+
+#: patterns/testimonials.php:34
+#: patterns/testimonials.php:62
+#: patterns/testimonials.php:90
+#: patterns/testimonials.php:118
+#: patterns/testimonials.php:149
+#: patterns/testimonials.php:177
+#: patterns/testimonials.php:205
+#: patterns/testimonials.php:233
+msgid "It may seem strange to some readers to find an article touching on metaphysics in a magazine on guitar making; it will also seem perfectly appropriate to others that such a topic be included."
+msgstr ""
+
+#: patterns/testimonials.php:41
+#: patterns/testimonials.php:97
+#: patterns/testimonials.php:184
+#: patterns/testimonials.php:240
+msgid "John Doe"
+msgstr ""
+
+#: patterns/testimonials.php:45
+#: patterns/testimonials.php:73
+#: patterns/testimonials.php:101
+#: patterns/testimonials.php:118
+#: patterns/testimonials.php:129
+#: patterns/testimonials.php:149
+#: patterns/testimonials.php:160
+#: patterns/testimonials.php:177
+#: patterns/testimonials.php:188
+#: patterns/testimonials.php:216
+#: patterns/testimonials.php:244
+msgid "Manager, "
+msgstr ""
+
+#: patterns/testimonials.php:45
+#: patterns/testimonials.php:73
+#: patterns/testimonials.php:101
+#: patterns/testimonials.php:129
+#: patterns/testimonials.php:160
+#: patterns/testimonials.php:188
+#: patterns/testimonials.php:216
+#: patterns/testimonials.php:244
+msgid "company"
+msgstr ""
+
+#: patterns/testimonials.php:69
+#: patterns/testimonials.php:125
+#: patterns/testimonials.php:156
+#: patterns/testimonials.php:212
+msgid "Jessica Doe"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Secondary Alt"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Border"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Meta"
+msgstr ""

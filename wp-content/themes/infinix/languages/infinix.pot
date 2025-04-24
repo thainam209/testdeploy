@@ -1,0 +1,426 @@
+# Copyright (c) 2023 InfinixThemes. All Rights Reserved.
+msgid ""
+msgstr ""
+"Project-Id-Version: Infinix 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/infinix\n"
+"Last-Translator: inf@infinixthemes.com\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-10-11T08:05:25+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: infinix\n"
+
+#. Theme Name of the theme
+#: functions.php:73
+msgid "Infinix"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://infinixthemes.com/wordpress-themes/infinix/"
+msgstr ""
+
+#. Description of the theme
+msgid "Infinix is a complete WordPress Full Site Editing theme that gets makes your site building super easy. This theme is compatible with WooCommerce, which allows you to effortlessly set up an online store, showcasing your products in an elegant and clutter-free layout. the theme's efficient performance ensures that your website loads quickly, contributing to a positive user experience and search engine optimization benefits. With Infinix, you can rest assured that your site will not only look great but also perform exceptionally well."
+msgstr ""
+
+#. Author of the theme
+msgid "Infinix Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://infinixthemes.com"
+msgstr ""
+
+#: functions.php:76
+msgid "Page"
+msgstr ""
+
+#: patterns/call-to-action.php
+msgctxt "Pattern title"
+msgid "Call To Action"
+msgstr ""
+
+#: patterns/call-to-action.php:19
+msgid "Promotion Headline"
+msgstr ""
+
+#: patterns/call-to-action.php:23
+msgid "Build innovative layouts in Gutenberg with infinix"
+msgstr ""
+
+#: patterns/call-to-action.php:27
+msgid "Multipurpose WordPress themes are designed to be all things to all people"
+msgstr ""
+
+#: patterns/call-to-action.php:32
+#: patterns/header-media.php:30
+#: patterns/hero.php:33
+msgid "Get Started"
+msgstr ""
+
+#: patterns/featured-content.php
+msgctxt "Pattern title"
+msgid "Featured Content"
+msgstr ""
+
+#: patterns/featured-content.php:14
+msgid "Articles"
+msgstr ""
+
+#: patterns/featured-content.php:18
+msgid "Featured"
+msgstr ""
+
+#: patterns/featured-content.php:35
+msgid "15 awesome things you can learn about great design."
+msgstr ""
+
+#: patterns/featured-content.php:39
+msgid "Blogs and websites tell a story or provide information about a product or service, so catching the attention of visitors is generally the primary goal."
+msgstr ""
+
+#: patterns/featured-content.php:44
+#: patterns/featured-content.php:72
+#: patterns/featured-content.php:100
+#: patterns/services.php:44
+#: patterns/services.php:72
+#: patterns/services.php:100
+msgid "Read More"
+msgstr ""
+
+#: patterns/featured-content.php:63
+msgid "Seven useful tips From expertes in design and wordPress."
+msgstr ""
+
+#: patterns/featured-content.php:67
+msgid "Featured content is the highlighted text, images, or posts on a page that entice visitors to read on. It looks like what you wanted and adjust as needed."
+msgstr ""
+
+#: patterns/featured-content.php:91
+msgid "Five gigantic influences of gutenberg in the world of wordpress."
+msgstr ""
+
+#: patterns/featured-content.php:95
+msgid "Featured posts are typically your most popular or most recent articles, and they can help new readers discover your best content."
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr ""
+
+#: patterns/footer-default.php:28
+msgctxt "1: Year, 2: Site Title with home URL, 3: Privacy Policy Link"
+msgid "Copyright &copy; %1$s %2$s"
+msgstr ""
+
+#: patterns/footer-default.php:29
+msgid "Y"
+msgstr ""
+
+#: patterns/footer-has-widgets.php
+msgctxt "Pattern title"
+msgid "Footer Has Widgets"
+msgstr ""
+
+#: patterns/footer-has-widgets.php:19
+msgid "Company"
+msgstr ""
+
+#: patterns/footer-has-widgets.php:31
+msgid "Popular themes"
+msgstr ""
+
+#: patterns/footer-has-widgets.php:45
+msgid "Support"
+msgstr ""
+
+#: patterns/footer-has-widgets.php:58
+msgid "stay connected"
+msgstr ""
+
+#: patterns/footer-has-widgets.php:63
+msgid "Subscribe to hear about coupon codes, important notices, new product announcement and more. No nonsense!"
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr ""
+
+#: patterns/header-media.php
+msgctxt "Pattern title"
+msgid "Header Media"
+msgstr ""
+
+#: patterns/header-media.php:19
+msgid "Header Media"
+msgstr ""
+
+#: patterns/header-media.php:21
+msgid "The best way to perfect"
+msgstr ""
+
+#: patterns/header-media.php:25
+msgid "Multipurpose WordPress themes are designed to be all things to all people and can use the widest range of designs for any purpose."
+msgstr ""
+
+#: patterns/header-top.php
+msgctxt "Pattern title"
+msgid "Header Top"
+msgstr ""
+
+#: patterns/header-top.php:15
+msgid "example@example.com"
+msgstr ""
+
+#: patterns/header-top.php:23
+msgid "+977-000-000"
+msgstr ""
+
+#: patterns/header-top.php:31
+msgid "3067 Orphan Road"
+msgstr ""
+
+#: patterns/hero.php
+msgctxt "Pattern title"
+msgid "Hero"
+msgstr ""
+
+#: patterns/hero.php:18
+msgid "Hero Content"
+msgstr ""
+
+#: patterns/hero.php:20
+msgid "Important points to know in collagen induction therapy."
+msgstr ""
+
+#: patterns/hero.php:24
+msgid "Hero sections are designed to be large and attention-grabbing. With the right plugins and themes, you can create large hero sections that get attention. There are even specific templates for this type of design."
+msgstr ""
+
+#: patterns/hero.php:28
+msgid "However, if you don’t want to use a plugin, and you’re happy with the theme you have already, you can easily simulate the hero section with your own hero block right in your Gutenberg editor."
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "Hidden 404"
+msgstr ""
+
+#: patterns/hidden-404.php:13
+msgctxt "Error code for a webpage that is not found."
+msgid "404 Nothing Foun"
+msgstr ""
+
+#: patterns/hidden-404.php:17
+msgctxt "Message to convey that a webpage could not be found"
+msgid "Oops! That page can not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/hidden-404.php:23
+#: patterns/hidden-no-results.php:16
+msgctxt "label"
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-404.php:23
+msgctxt "placeholder for search field"
+msgid "Search a keyword.."
+msgstr ""
+
+#: patterns/hidden-404.php:23
+#: patterns/hidden-no-results.php:16
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-no-results.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results.php:12
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/hidden-no-results.php:16
+msgctxt "placeholder for search field"
+msgid "Search..."
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "Home"
+msgstr ""
+
+#: patterns/recent-posts.php
+msgctxt "Pattern title"
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/recent-posts.php:15
+msgid "Latest articles"
+msgstr ""
+
+#: patterns/recent-posts.php:20
+msgid "From the blog"
+msgstr ""
+
+#: patterns/services.php
+msgctxt "Pattern title"
+msgid "Services"
+msgstr ""
+
+#: patterns/services.php:14
+msgid "Amazing"
+msgstr ""
+
+#: patterns/services.php:18
+msgid "Services"
+msgstr ""
+
+#: patterns/services.php:35
+msgid "Transparent pricing"
+msgstr ""
+
+#: patterns/services.php:39
+msgid "Visualize yourself completing the task and achieving the goals. This will help to accomplish more in less time."
+msgstr ""
+
+#: patterns/services.php:63
+msgid "Compliance knowledge"
+msgstr ""
+
+#: patterns/services.php:67
+msgid "As you probably know, after installation, a theme needs to be customized so that it represents your business the best."
+msgstr ""
+
+#: patterns/services.php:91
+msgid "Professional support"
+msgstr ""
+
+#: patterns/services.php:95
+msgid "We will customize a theme of your choice with up to six pages of written content, your company logo, and branding color elements."
+msgstr ""
+
+#: patterns/sidebar-default.php
+msgctxt "Pattern title"
+msgid "Sidebar Default"
+msgstr ""
+
+#: patterns/sidebar-products.php
+msgctxt "Pattern title"
+msgid "Sidebar Products"
+msgstr ""
+
+#: patterns/sidebar-products.php:15
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar-products.php:38
+msgid "filter by price"
+msgstr ""
+
+#: patterns/sidebar-products.php:52
+msgid "filter by size"
+msgstr ""
+
+#: patterns/sidebar-products.php:66
+msgid "filter by color"
+msgstr ""
+
+#: patterns/team.php
+msgctxt "Pattern title"
+msgid "Team"
+msgstr ""
+
+#: patterns/team.php:14
+msgid "Awesome"
+msgstr ""
+
+#: patterns/team.php:18
+msgid "Team"
+msgstr ""
+
+#: patterns/team.php:35
+#: patterns/team.php:56
+msgid "Benedetta"
+msgstr ""
+
+#: patterns/team.php:39
+msgid "Founder / CEO"
+msgstr ""
+
+#: patterns/team.php:60
+msgid "UX/UI Designer"
+msgstr ""
+
+#: patterns/team.php:77
+msgid "Alchemy"
+msgstr ""
+
+#: patterns/team.php:81
+msgid "Manager"
+msgstr ""
+
+#: patterns/team.php:98
+msgid "Abrielle"
+msgstr ""
+
+#: patterns/team.php:102
+msgid "Developer"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Secondary Alt"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Border"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Meta"
+msgstr ""

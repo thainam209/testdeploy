@@ -1,0 +1,10 @@
+2025-04-05T01:23:41+00:00 WARNING Các mẫu trống nhận được từ PTK Pattern Store
+2025-04-05T01:25:39+00:00 INFO Payment gateway enabled: "Quét mã Momo"
+2025-04-05T01:52:12+00:00 INFO Payment gateway enabled: "Quét mã Momo"
+2025-04-05T02:15:04+00:00 INFO Payment gateway enabled: "Quét mã Momo"
+2025-04-05T02:40:35+00:00 INFO Payment gateway enabled: "Quét Mã QR Momo"
+2025-04-05T03:23:51+00:00 INFO Payment gateway enabled: "Quét Mã QR ZaloPay"
+2025-04-05T03:24:05+00:00 INFO Payment gateway enabled: "Quét Mã QR Grab Moca"
+2025-04-05T03:24:08+00:00 INFO Payment gateway enabled: "Quét Mã QR ShopeePay"
+2025-04-05T03:28:05+00:00 INFO Payment gateway enabled: "Chuyển khoản ngân hàng trực tiếp"
+2025-04-05T03:49:06+00:00 INFO Payment gateway enabled: "Quét Mã VNPay"
